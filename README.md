@@ -9,7 +9,7 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, além de poss
 Além das minhas habilidades técnicas, minhas habilidades interpessoais me permitem ser colaborativo, comunicativo, autodidata, adaptável e proativo. Acredito que essas habilidades são fundamentais para o sucesso em uma mudança de carreira e me permitem trabalhar bem em equipe e me adaptar facilmente a novas situações.
 
 ___
-### Ferramentas que utilizo:
+### Linguagens e ferramentas:
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
