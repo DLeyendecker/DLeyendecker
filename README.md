@@ -35,6 +35,7 @@ ___
        
 ### Repositórios Importantes:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DLeyendecker&repo=bootcamp_data_engineer&theme=dark)](https://github.com/DLeyendecker/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DLeyendecker&repo=bootcamp_python_developer&theme=dark)](https://github.com/DLeyendecker/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DLeyendecker&repo=bootcamp_docker&theme=dark)]([https://github.com/DLeyendecker/github-readme-stats](https://github.com/DLeyendecker/bootcamp_docker))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DLeyendecker&repo=bootcamp_data_engineer&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DLeyendecker&repo=bootcamp_python_developer&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DLeyendecker&repo=bootcamp_docker&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
