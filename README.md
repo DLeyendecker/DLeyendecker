@@ -1,5 +1,5 @@
 
-
+![VISITANTES](https://api.visitorbadge.io/api/VisitorHit?user=DLeyendecker&repo=Aranha-dev&label=VISITANTE&countColor=%232B5B84)
 
 ## Olá 🖖, eu sou **Davi Leyendecker**
 Entusiasta de dados digitais, apaixonado por tecnologia e Ciência de Dados, sou um profissional em transição de carreira buscando oportunidades na área dos dados.
