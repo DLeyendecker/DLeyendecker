@@ -1,4 +1,4 @@
-![VISITANTES](https://api.visitorbadge.io/api/VisitorHit?user=DLeyendecker&repo=Aranha-dev&label=VISITANTE&countColor=%232B5B84)
+![VISITANTES](https://api.visitorbadge.io/api/VisitorHit?user=Leyendecker&repo=Aranha-dev&label=VISITANTE&countColor=%232B5B84)
 
 
 ## Olá 🖖, eu sou **Davi Leyendecker**
