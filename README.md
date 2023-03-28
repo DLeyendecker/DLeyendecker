@@ -4,9 +4,9 @@
 ## Olá 🖖, eu sou **Davi Leyendecker**
 Entusiasta de dados digitais, apaixonado por tecnologia e Ciência de Dados, sou um profissional em transição de carreira buscando oportunidades na área dos dados.
 
-Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, além de possuir graduação em Gestão Financeira, o que me proporcionou uma base sólida em negócios e finanças.
+Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, além de possuir graduação em Gestão Financeira que me proporcionou uma sólida base em negócios e finanças, além da habilidade de análise de dados financeiros e elaboração de Dashboards. 
 
-Além das minhas habilidades técnicas, minhas habilidades interpessoais me permitem ser colaborativo, comunicativo, autodidata, adaptável e proativo. Acredito que essas habilidades são fundamentais para o sucesso em uma mudança de carreira e me permitem trabalhar bem em equipe e me adaptar facilmente a novas situações.
+Minhas soft skills incluem colaboração, comunicação, autodidatismo, adaptabilidade e proatividade, o que me permite trabalhar bem em equipe e me adaptar facilmente a novas situações. 
 
 ___
 ### Linguagens e ferramentas:
