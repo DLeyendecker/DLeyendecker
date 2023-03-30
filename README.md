@@ -42,5 +42,5 @@ ___
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DLeyendecker&repo=formacao_docker_fundamentals&theme=dark)](https://github.com/DLeyendecker/formacao_docker_fundamentals)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DLeyendecker&repo=bootcamp_sql_database_specialist&theme=dark)](https://github.com/DLeyendecker/bootcamp_sql_database_specialist)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DLeyendecker&repo=formacao_sql_database_specialis&theme=dark)](https://github.com/DLeyendecker/formacao_sql_database_specialis)
 
