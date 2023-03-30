@@ -31,17 +31,6 @@ ___
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davileyendecker/)
 [![Facebook](	https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/david.leyendecker.3)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dleyendecker/)
+ 
 
-___
-       
-### Repositórios Importantes:
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DLeyendecker&repo=bootcamp_data_engineer&theme=dark)](https://github.com/DLeyendecker/bootcamp_data_engineer)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DLeyendecker&repo=formacao_python_developer&theme=dark)]
-(https://github.com/DLeyendecker/formacao_python_developer)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DLeyendecker&repo=formacao_docker_fundamentals&theme=dark)](https://github.com/DLeyendecker/formacao_docker_fundamentals)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DLeyendecker&repo=formacao_sql_database_specialist&theme=dark)](https://github.com/DLeyendecker/formacao_sql_database_specialist)
 
