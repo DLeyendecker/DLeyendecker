@@ -16,14 +16,14 @@ ___
 <br>
 
 ___
+<h3> Github Stats: <br></h3>
+  
+<div>
+  <a href="[https://github.com/DLeyendecker](https://github.com/DLeyendecker)"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DLeyendecker&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DLeyendecker&layout=compact&langs_count=16&theme=dark"/>
+</div>
 
-
-<p align="left">
-<a href="https://github.com/DLeyendecker">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DLeyendecker&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DLeyendecker&layout=compact&theme=dark")](https://github.com/anuraghazra/github-readme-stats"/>
-
-</a></p>
 
 ___
 
