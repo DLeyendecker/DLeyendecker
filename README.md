@@ -17,11 +17,12 @@ ___
 
 ___
 
+
 <p align="left">
 <a href="https://github.com/DLeyendecker">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DLeyendecker&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dleyendecker&layout=compact&theme=dark")](https://github.com/anuraghazra/github-readme-stats"/>
-  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DLeyendecker&layout=compact&theme=dark")](https://github.com/anuraghazra/github-readme-stats"/>
+
 </a></p>
 
 ___
