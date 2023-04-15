@@ -3,7 +3,7 @@
 
 ## Olá 🖖, eu sou **Davi Leyendecker**
 
-Entusiasta de dados digitais e apaixonado por tecnologia e Ciência de Dados. Atualmente, estou cursando MBA em Data Science e Business Intelligence e também me graduando em Análise e Desenvolvimento de Sistemas, além de possuir graduação em Gestão Financeira, o que me proporcionou uma sólida base em negócios e finanças.
+Entusiasta de dados digitais e apaixonado por tecnologia e Ciência de Dados. Atualmente, estou cursando MBA em Data Science & Business Intelligence e também me graduando em Análise e Desenvolvimento de Sistemas, além de possuir graduação em Gestão Financeira, o que me proporcionou uma sólida base em negócios e finanças.
 
 Minhas soft skills incluem colaboração, comunicação, autodidatismo, adaptabilidade e proatividade, permitindo-me trabalhar bem em equipe e me adaptar facilmente a novas situações.
 
