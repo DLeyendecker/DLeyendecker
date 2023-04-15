@@ -5,11 +5,7 @@
 
 Entusiasta de dados digitais e apaixonado por tecnologia e Ciência de Dados. Atualmente, estou cursando MBA em Data Science e Business Intelligence e também me graduando em Análise e Desenvolvimento de Sistemas, além de possuir graduação em Gestão Financeira, o que me proporcionou uma sólida base em negócios e finanças.
 
-Tenho habilidades em análise de dados financeiros e elaboração de dashboards e estou em constante desenvolvimento técnico em manipulação e visualização de dados, incluindo linguagem Python (Pandas, Numpy e Matplotlib) e SQL (MySQL e PostgreSQL), além de ser habilidoso em Excel e Power BI.
-
 Minhas soft skills incluem colaboração, comunicação, autodidatismo, adaptabilidade e proatividade, permitindo-me trabalhar bem em equipe e me adaptar facilmente a novas situações.
-
-Convido-o a conhecer meus projetos no meu repositório no GitHub: https://github.com/DLeyendecker
 
 ___
 ### Linguagens e ferramentas:
