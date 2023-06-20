@@ -1,12 +1,16 @@
+# Olá 🖖, eu sou **Davi Leyendecker**
 
-![VISITANTES](https://api.visitorbadge.io/api/VisitorHit?user=DLeyendecker&repo=Aranha-dev&label=VISITANTE&countColor=%232B5B84)
+Entusiasta de dados digitais e apaixonado por tecnologia e Ciência de Dados. Atualmente, estou cursando MBA em Data Science & Business Intelligence e também me graduando em Análise e Desenvolvimento de Sistemas, além de possuir graduação em Gestão Financeira, o que me proporcionou uma sólida base em negócios e finanças. Nesta página, você encontrará alguns dos projetos e estudos que desenvolvi ao longo da minha carreira.
 
-## Olá 🖖, eu sou **Davi Leyendecker**
+Se você deseja trocar ideias, sinta-se à vontade para entrar em contato comigo através do seguinte e-mail: D.Leyendecker@ymail.com
 
-Entusiasta de dados digitais e apaixonado por tecnologia e Ciência de Dados. Atualmente, estou cursando MBA em Data Science & Business Intelligence e também me graduando em Análise e Desenvolvimento de Sistemas, além de possuir graduação em Gestão Financeira, o que me proporcionou uma sólida base em negócios e finanças.
+Minhas soft skills incluem colaboração, comunicação, autodidatismo e proatividade, permitindo-me trabalhar bem em equipe e me adaptar facilmente a novas situações.
 
-Minhas soft skills incluem colaboração, comunicação, autodidatismo, adaptabilidade e proatividade, permitindo-me trabalhar bem em equipe e me adaptar facilmente a novas situações.
+## Educação
 
+- MBA em Data Science & Business Intelligence pelo Centro Universitário União das Américas - UNIAMÉRICA (2023 - 2024)
+- Graduação em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Internacional - UNINTER (2022 - 2024) 
+- Graduação em Gestão Financeira pelo Centro Universitário Internacional - UNINTER (2019 - 2021)
 ___
 ### Linguagens e ferramentas:
 
