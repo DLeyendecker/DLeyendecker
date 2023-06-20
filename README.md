@@ -6,11 +6,6 @@ Se você deseja trocar ideias, sinta-se à vontade para entrar em contato comigo
 
 Minhas soft skills incluem colaboração, comunicação, autodidatismo e proatividade, permitindo-me trabalhar bem em equipe e me adaptar facilmente a novas situações.
 
-## Educação
-
-- MBA em Data Science & Business Intelligence pelo Centro Universitário União das Américas - UNIAMÉRICA (2023 - 2024)
-- Graduação em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Internacional - UNINTER (2022 - 2024) 
-- Graduação em Gestão Financeira pelo Centro Universitário Internacional - UNINTER (2019 - 2021)
 
 ## Certificações
 - Formação em Estatística com Python pela Alura (2023)
