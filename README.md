@@ -1,4 +1,4 @@
-# Olá 🖖, eu sou **Davi Leyendecker**
+## Olá 🖖, eu sou **Davi Leyendecker**
 
 Entusiasta de dados digitais e apaixonado por tecnologia e Ciência de Dados. Atualmente, estou cursando MBA em Data Science & Business Intelligence e também me graduando em Análise e Desenvolvimento de Sistemas, além de possuir graduação em Gestão Financeira, o que me proporcionou uma sólida base em negócios e finanças. Nesta página, você encontrará alguns dos projetos e estudos que desenvolvi ao longo da minha carreira.
 
@@ -11,6 +11,13 @@ Minhas soft skills incluem colaboração, comunicação, autodidatismo e proativ
 - MBA em Data Science & Business Intelligence pelo Centro Universitário União das Américas - UNIAMÉRICA (2023 - 2024)
 - Graduação em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Internacional - UNINTER (2022 - 2024) 
 - Graduação em Gestão Financeira pelo Centro Universitário Internacional - UNINTER (2019 - 2021)
+
+## Certificações
+- Formação em Estatística com Python pela Alura (2023)
+- Formação em Python para Data Science pela Alura (2023)
+- Formação em Power BI pela Digital Innovation One (2023)
+- Formação em Database pela Digital Innovation One (2023)
+  
 ___
 ### Linguagens e ferramentas:
 
