@@ -6,7 +6,7 @@ Se você deseja trocar ideias, sinta-se à vontade para entrar em contato comigo
 
 Minhas soft skills incluem colaboração, comunicação, autodidatismo e proatividade, permitindo-me trabalhar bem em equipe e me adaptar facilmente a novas situações.
 
-
+___
 ### Certificações:
 - Formação em Estatística com Python pela Alura (2023)
 - Formação em Python para Data Science pela Alura (2023)
