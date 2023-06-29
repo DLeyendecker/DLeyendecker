@@ -8,7 +8,6 @@ Minhas soft skills incluem colaboração, comunicação, autodidatismo e proativ
 
 ___
 ### Certificações:
-- Formação em Estatística com Python pela Alura (2023)
 - Formação em Python para Data Science pela Alura (2023)
 - Formação em Power BI pela Digital Innovation One (2023)
 - Formação em Database pela Digital Innovation One (2023)
