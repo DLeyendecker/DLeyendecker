@@ -1,6 +1,6 @@
 ### Olá 🖖, eu sou **Davi Leyendecker**
 
-EEntusiasta de dados digitais e apaixonado por tecnologia e Ciência de Dados. Concluí recentemente meu MBA em Data Science & Business Intelligence, adquirindo conhecimentos sólidos nessa área, e atualmente estou cursando Análise e Desenvolvimento de Sistemas, além de possuir graduação anterior em Gestão Financeira, o que me proporcionou uma base sólida em negócios e finanças. Nesta página, você encontrará alguns dos projetos e estudos que desenvolvi ao longo da minha carreira.
+Entusiasta de dados digitais e apaixonado por tecnologia e Ciência de Dados. Concluí recentemente meu MBA em Data Science & Business Intelligence, adquirindo conhecimentos sólidos nessa área, e atualmente estou cursando Análise e Desenvolvimento de Sistemas, além de possuir graduação anterior em Gestão Financeira, o que me proporcionou uma base sólida em negócios e finanças. Nesta página, você encontrará alguns dos projetos e estudos que desenvolvi ao longo da minha carreira.
 
 Se você deseja trocar ideias, sinta-se à vontade para entrar em contato comigo através do seguinte e-mail: D.Leyendecker@ymail.com
 
