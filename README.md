@@ -10,7 +10,7 @@ ___
 ### Certificações:
 - Formação em Python para Data Science pela Alura (2023)
 - Formação em Power BI pela Digital Innovation One (2023)
-- Formação em Database pela Digital Innovation One (2023)
+- Formação em Database pela Digital Innovation One (2023).
   
 ___
 ### Linguagens e Ferramentas:
