@@ -1,16 +1,10 @@
 ### Olá 🖖, eu sou **Davi Leyendecker**
 
-Sou um entusiasta de dados e tecnologia, apaixonado por Ciência de Dados. O MBA em Data Science and Big Data consolidou meu conhecimento na área, enquanto a graduação em Gestão Financeira me proporcionou uma base estratégica sólida. Atualmente, como estudante de Análise e Desenvolvimento de Sistemas, estou constantemente explorando novas formas de aplicar minhas habilidades em projetos inovadores.
+Sou Data Analyst, formado em Análise e Desenvolvimento de Sistemas, com MBA em Data Science & Big Data. Tenho mais de três anos de experiência em análise de dados, modelagem e desenvolvimento de dashboards, utilizando Power BI, Excel avançado, DAX, Linguagem M, Python (Pandas) e SQL. Meu foco está na manipulação de dados e automação de relatórios para apoiar decisões estratégicas.
 
-Aqui, você encontrará alguns dos projetos e estudos que desenvolvi ao longo da minha jornada profissional. Se quiser trocar ideias ou colaborar, fique à vontade para me contatar: D.Leyendecker@ymail.com.
+Minha formação em Gestão Financeira agrega uma visão analítica e estratégica para projetos de dados. Além disso, sou AWS Certified Cloud Practitioner, ampliando minha atuação com soluções em nuvem.
 
-Soft Skills: Comunicação, autodidatismo, proatividade, adaptabilidade e trabalho em equipe.
-
-___
-### Certificações:
-- Python para Data Science - Alura (2023)
-- Power BI - Digital Innovation One (2023)
-- SQL para Análise de Dados - Digital Innovation One (2023)
+Aqui, compartilho alguns dos projetos que desenvolvi ao longo da minha trajetória. Se quiser trocar ideias ou colaborar, entre em contato: D.Leyendecker@ymail.com.
   
 ___
 ### Linguagens e Ferramentas:
