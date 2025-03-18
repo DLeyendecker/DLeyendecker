@@ -9,7 +9,7 @@
         </b>
     <br>
     <br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=800020&center=true&width=410&height=45&lines=Data+Analyst+and+Cloud+Enthusiast+📊.">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6A0DAD&center=true&width=410&height=45&lines=Data+Analyst+and+Cloud+Enthusiast+📊.">
     <br>
         <b>
         ~Davi~
@@ -40,6 +40,7 @@
 </details>
 
 ![Snake animation](https://github.com/TASIO852/TASIO852/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
