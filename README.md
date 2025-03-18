@@ -3,7 +3,7 @@
 <p align="center">
     <samp><br>
         <b>
-            Hello There
+            Hello There!
         <br>
             I'm Davi, a Data Professional skilled in Python, SQL, AWS, Power BI, and Big Data technologies.<br>
         </b>
