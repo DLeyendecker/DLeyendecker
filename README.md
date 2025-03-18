@@ -12,7 +12,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6A0DAD&center=true&width=410&height=45&lines=Big+Data+Enthusiast">
     <br>
         <b>
-        ~Davi~
+        ~Davi Leyendecker~
         </b>
     <br>
     </samp><br>
