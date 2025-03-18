@@ -5,7 +5,7 @@
         <b>
             Hello There
         <br>
-            I'm Davi, a Data Professional with expertise in Python, SQL, AWS, Power BI, and Big Data technologies.<br>
+            I'm Davi, a Data Professional skilled in Python, SQL, AWS, Power BI, and Big Data technologies.<br>
         </b>
     <br>
     <br>
