@@ -9,7 +9,7 @@
         </b>
     <br>
     <br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=BC83E3&center=true&width=410&height=45&lines=Data+Analyst+and+Cloud+Enthusiast+📊.">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=8B0000&center=true&width=410&height=45&lines=Data+Analyst+and+Cloud+Enthusiast+📊.">
     <br>
         <b>
         ~Davi~
@@ -36,6 +36,11 @@
         <a href="https://seuPORTIFOLIO.github.io"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
         <h2></h2> 
     </samp>
+</p>
+</details>
+
+![Snake animation](https://github.com/TASIO852/TASIO852/blob/output/github-contribution-grid-snake.svg)
+
 </p>
 </details>
 
