@@ -9,7 +9,7 @@
         </b>
     <br>
     <br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6A0DAD&center=true&width=410&height=45&lines=Data+Analyst+and+Cloud+Enthusiast+📊.">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6A0DAD&center=true&width=410&height=45&lines=Data+Professional+%7C+Python%2C+SQL%2C+AWS+%26+Power+BI+Enthusiast">
     <br>
         <b>
         ~Davi~
