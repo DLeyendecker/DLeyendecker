@@ -3,7 +3,7 @@
 <p align="center">
     <samp><br>
         <b>
-            Olá, sou Davi Leyendecker, profissional de dados com expertise em Python, SQL, AWS, Power BI e Big Data.<br>
+            Olá, sou Davi Leyendecker, profissional de dados com experiência em Python, SQL, AWS, Power BI e ferramentas de Big Data.<br>
         </b>
     <br>
     <br>
