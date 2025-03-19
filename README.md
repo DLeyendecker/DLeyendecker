@@ -3,13 +3,13 @@
 <p align="center">
     <samp><br>
         <b>
-            Hello There!
+            Olá, tudo bem?
         <br>
-            I'm Davi, a Data Professional skilled in Python, SQL, AWS, Power BI, and Big Data technologies.<br>
+            Eu sou o Davi, um profissional de dados com habilidades em Python, SQL, AWS, Power BI e tecnologias de Big Data.<br>
         </b>
     <br>
     <br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6A0DAD&center=true&width=410&height=45&lines=Big+Data+Enthusiast">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6A0DAD&center=true&width=410&height=45&lines=Entusiasta+de+Big+Data">
     <br>
         <b>
         ~Davi Leyendecker~
@@ -25,10 +25,10 @@
 <br>
 
 <details align="center">
-<summary><samp>Extend</samp></summary>
+<summary><samp>Expandir</samp></summary>
 
 <p align="center">
-    <b>Technologies I Work With:</b><br>
+    <b>Tecnologias com as quais trabalho:</b><br>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
     <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sql&logoColor=white">
