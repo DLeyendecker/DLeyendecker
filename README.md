@@ -23,11 +23,6 @@
 </p>
 
 <!-- Technologies Section -->
-## Tecnologias com as Quais Trabalho
-
-## Tecnologias com as Quais Trabalho
-
-## Tecnologias com as Quais Trabalho
 
 <p align="center">
     <img alt="Python" height="60" width="60" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg" style="fill: #3776AB;">
