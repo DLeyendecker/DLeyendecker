@@ -27,17 +27,18 @@
 ## Tecnologias com as Quais Trabalho
 
 <p align="center">
-    <img alt="Python" height="60" width="60" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg">
-    <img alt="AWS" height="60" width="60" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonaws.svg">
-    <img alt="SQL" height="60" width="60" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mysql.svg">
-    <img alt="Power BI" height="60" width="60" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powerbi.svg">
-    <img alt="Apache Spark" height="60" width="60" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apachespark.svg">
-    <img alt="Databricks" height="60" width="60" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/databricks.svg">
-    <img alt="Docker" height="60" width="60" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/docker.svg">
-    <img alt="Terraform" height="60" width="60" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/terraform.svg">
-    <img alt="Apache Kafka" height="60" width="60" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apachekafka.svg">
-    <img alt="Apache Airflow" height="60" width="60" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apacheairflow.svg">
+    <img alt="Python" height="60" width="60" src="https://img.icons8.com/fluency/60/000000/python.png">
+    <img alt="AWS" height="60" width="60" src="https://img.icons8.com/fluency/60/000000/amazon-web-services.png">
+    <img alt="SQL" height="60" width="60" src="https://img.icons8.com/fluency/60/000000/mysql-logo.png">
+    <img alt="Power BI" height="60" width="60" src="https://img.icons8.com/fluency/60/000000/power-bi.png">
+    <img alt="Apache Spark" height="60" width="60" src="https://img.icons8.com/fluency/60/000000/apache-spark.png">
+    <img alt="Databricks" height="60" width="60" src="https://img.icons8.com/fluency/60/000000/databricks.png">
+    <img alt="Docker" height="60" width="60" src="https://img.icons8.com/fluency/60/000000/docker.png">
+    <img alt="Terraform" height="60" width="60" src="https://img.icons8.com/fluency/60/000000/terraform.png">
+    <img alt="Apache Kafka" height="60" width="60" src="https://img.icons8.com/fluency/60/000000/apache-kafka.png">
+    <img alt="Apache Airflow" height="60" width="60" src="https://img.icons8.com/fluency/60/000000/apache-airflow.png">
 </p>
+
 
 
 <br>
