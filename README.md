@@ -27,21 +27,17 @@
 ## Tecnologias com as Quais Trabalho
 
 <p align="center">
-    <img alt="Python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-    <img alt="AWS" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonaws/amazonaws-original.svg">
-    <img alt="SQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
-    <img alt="Power BI" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg">
-    <img alt="Apache Spark" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg">
-    <img alt="Databricks" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/databricks/databricks-original.svg">
-    <img alt="Docker" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
-    <img alt="Terraform" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg">
-    <img alt="Apache Kafka" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg">
-    <img alt="Apache Airflow" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg">
+    <img alt="Python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+    <img alt="AWS" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
+    <img alt="SQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+    <img alt="Power BI" height="60" width="60" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/master/SVG/PowerBI.svg">
+    <img alt="Apache Spark" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache-spark/apache-spark-original.svg">
+    <img alt="Databricks" height="60" width="60" src="URL_DO_ICONE_DATABRICKS">
+    <img alt="Docker" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+    <img alt="Terraform" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg">
+    <img alt="Apache Kafka" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache-kafka/apache-kafka-original.svg">
+    <img alt="Apache Airflow" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache-airflow/apache-airflow-original.svg">
 </p>
-
-
-
-
 
 <br>
 
