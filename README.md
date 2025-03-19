@@ -26,6 +26,13 @@
 
 <h2></h2><br>
 
+<!-- AWS Certification Badge -->
+<p align="center">
+  <a href="https://www.credly.com/badges/cac3202a-1fc0-44e6-b637-622c75ab4a15" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Badge" width="120" height="120">
+  </a>
+</p>
+
 <!-- Contact Me -->
 <p align="center">
     <samp>
@@ -37,8 +44,3 @@
 </details>
 
 ![Snake animation](https://github.com/TASIO852/TASIO852/blob/output/github-contribution-grid-snake.svg)
-
-
-
-
-
