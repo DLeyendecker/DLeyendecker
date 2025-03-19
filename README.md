@@ -24,16 +24,17 @@
     <summary><samp>Ferramentas e Tecnologias que Utilizo</samp></summary>
 
 <p align="center">
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet">
-    <i class="fab fa-python" style="font-size: 40px; color: #3776AB;"></i>
-    <i class="fab fa-aws" style="font-size: 40px; color: #232F3E;"></i>
-    <i class="fas fa-database" style="font-size: 40px; color: #00758F;"></i>
-    <i class="fab fa-microsoft" style="font-size: 40px; color: #2769B5;"></i>
-    <i class="fab fa-apache" style="font-size: 40px; color: #E25A1C;"></i>
-    <i class="fab fa-docker" style="font-size: 40px; color: #2496ED;"></i>
-    <i class="fab fa-terraform" style="font-size: 40px; color: #7B42A0;"></i>
-    <i class="fab fa-kafka" style="font-size: 40px; color: #231F20;"></i>
-    <i class="fab fa-airbnb" style="font-size: 40px; color: #017C6D;"></i>
+    <!-- Badges para ferramentas -->
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
+    <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">
+    <img src="https://img.shields.io/badge/Power%20BI-2769B5?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI">
+    <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Apache Spark">
+    <img src="https://img.shields.io/badge/Databricks-FF6347?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+    <img src="https://img.shields.io/badge/Terraform-7B42A0?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
+    <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Apache Kafka">
+    <img src="https://img.shields.io/badge/Apache%20Airflow-017C6D?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Apache Airflow">
 </p>
 </details>
 
@@ -41,7 +42,7 @@
     <summary><samp>Contato</samp></summary>
     <p align="center">
         <samp>
-            <a href="https://www.linkedin.com/in/davileyendecker/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+            <a href="https://www.linkedin.com/in/davileyendecker/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
             <a href="https://wa.me/5521984232310"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
         </samp>
     </p>
