@@ -15,7 +15,16 @@
         ~Davi Leyendecker~
         </b>
     <br>
-    </samp><br>
+
+    <!-- AWS Certification Badge -->
+    <br>
+    <a href="https://www.credly.com/badges/cac3202a-1fc0-44e6-b637-622c75ab4a15" target="_blank">
+        <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Badge" width="100" height="100">
+    </a>
+    <br>
+    <samp>AWS Certified Cloud Practitioner</samp>
+    <br>
+
 </p>
 <p align="right"><strong><samp>」</samp></strong></p>
 
@@ -25,13 +34,6 @@
 <summary><samp>Extend</samp></summary>
 
 <h2></h2><br>
-
-<!-- AWS Certification Badge -->
-<p align="center">
-  <a href="https://www.credly.com/badges/cac3202a-1fc0-44e6-b637-622c75ab4a15" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Badge" width="120" height="120">
-  </a>
-</p>
 
 <!-- Contact Me -->
 <p align="center">
