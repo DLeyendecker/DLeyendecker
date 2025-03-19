@@ -16,6 +16,14 @@
         </b>
     <br>
 
+<p align="center">
+  <samp>
+    <b>👾 Pac-Man Tech Trail:</b><br><br>
+    🟡 Pac-Man → 🐍 Python → 🔷 SQL → ☁ AWS → 📊 Power BI
+  </samp>
+</p>
+
+
 <!-- AWS Certification Badge -->
 <br>
 <a href="https://www.credly.com/badges/cac3202a-1fc0-44e6-b637-622c75ab4a15" target="_blank">
