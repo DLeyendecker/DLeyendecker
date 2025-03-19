@@ -18,7 +18,8 @@
 </p>
 <br>
 
-<p align="center"><strong><samp>」</samp></strong></p>
+<!-- Positioning the symbol at the right -->
+<p style="text-align: right; position: relative; right: 0;"><strong><samp>」</samp></strong></p>
 
 <details align="center">
 <summary><samp>Ferramentas e Tecnologias que Utilizo</samp></summary>
@@ -35,6 +36,8 @@
     <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white">
     <img src="https://img.shields.io/badge/Apache%20Airflow-017C6D?style=for-the-badge&logo=apache-airflow&logoColor=white">
 </p>
+
+</details>
 
 <details align="center">
 <summary><samp>Contato</samp></summary>
