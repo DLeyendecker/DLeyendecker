@@ -22,24 +22,6 @@
     </a>
 </p>
 
-<!-- Technologies Section -->
-
-## Tecnologias com as Quais Trabalho
-
-<p align="center">
-    <img alt="Python" height="50" width="50" src="https://pluspng.com/python-logo-png-10014.html">
-    <img alt="AWS" height="50" width="50" src="https://logos-world.net/amazon-web-services-logo/">
-    <img alt="SQL" height="50" width="50" src="https://logodix.com/sql">
-    <img alt="Power BI" height="50" width="50" src="https://logohistory.net/power-bi-logo/">
-    <img alt="Apache Spark" height="50" width="50" src="https://vectorseek.com/vector_logo/apache-spark-logo-vector/">
-    <img alt="Databricks" height="50" width="50" src="https://logos-world.net/databricks-logo/">
-    <img alt="Docker" height="50" width="50" src="https://logos-world.net/docker-logo/">
-    <img alt="Terraform" height="50" width="50" src="https://creazilla.com/nodes/3254445-terraform-icon-icon">
-    <img alt="Apache Kafka" height="50" width="50" src="https://creazilla.com/nodes/3207476-apache-kafka-icon">
-    <img alt="Apache Airflow" height="50" width="50" src="https://logohistory.net/apache-airflow-logo/">
-</p>
-
-
 <br>
 
 <details align="center">
