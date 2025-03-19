@@ -24,17 +24,16 @@
     <summary><samp>Ferramentas e Tecnologias que Utilizo</samp></summary>
 
 <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-        <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sql&logoColor=white">
-        <img src="https://img.shields.io/badge/Power%20BI-2769B5?style=for-the-badge&logo=powerbi&logoColor=white">
-        <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white">
-        <img src="https://img.shields.io/badge/Databricks-FF6347?style=for-the-badge&logo=databricks&logoColor=white">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-        <img src="https://img.shields.io/badge/Terraform-7B42A0?style=for-the-badge&logo=terraform&logoColor=white">
-        <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white">
-        <img src="https://img.shields.io/badge/Apache%20Airflow-017C6D?style=for-the-badge&logo=apache-airflow&logoColor=white">
-    </p>
+    <i class="fab fa-python" style="font-size: 40px; color: #3776AB;"></i>
+    <i class="fab fa-aws" style="font-size: 40px; color: #232F3E;"></i>
+    <i class="fas fa-database" style="font-size: 40px; color: #00758F;"></i>
+    <i class="fab fa-microsoft" style="font-size: 40px; color: #2769B5;"></i>
+    <i class="fab fa-apache" style="font-size: 40px; color: #E25A1C;"></i>
+    <i class="fab fa-docker" style="font-size: 40px; color: #2496ED;"></i>
+    <i class="fab fa-terraform" style="font-size: 40px; color: #7B42A0;"></i>
+    <i class="fab fa-kafka" style="font-size: 40px; color: #231F20;"></i>
+    <i class="fab fa-airbnb" style="font-size: 40px; color: #017C6D;"></i>
+</p>
 </details>
 
 <details align="center">
