@@ -24,6 +24,7 @@
     <summary><samp>Ferramentas e Tecnologias que Utilizo</samp></summary>
 
 <p align="center">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet">
     <i class="fab fa-python" style="font-size: 40px; color: #3776AB;"></i>
     <i class="fab fa-aws" style="font-size: 40px; color: #232F3E;"></i>
     <i class="fas fa-database" style="font-size: 40px; color: #00758F;"></i>
