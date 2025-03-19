@@ -22,16 +22,17 @@
     </a>
 </p>
 <p align="center">
-    <i class="devicon-python-plain-wordmark" style="font-size: 50px;"></i> Python
-    <i class="devicon-aws-plain-wordmark" style="font-size: 50px;"></i> AWS
-    <i class="devicon-mysql-plain-wordmark" style="font-size: 50px;"></i> SQL
-    <i class="devicon-powerbi-plain-wordmark" style="font-size: 50px;"></i> Power BI
-    <i class="devicon-apache-spark-plain-wordmark" style="font-size: 50px;"></i> Apache Spark
-    <i class="devicon-databricks-plain-wordmark" style="font-size: 50px;"></i> Databricks
-    <i class="devicon-docker-plain-wordmark" style="font-size: 50px;"></i> Docker
-    <i class="devicon-terraform-plain-wordmark" style="font-size: 50px;"></i> Terraform
-    <i class="devicon-apache-kafka-plain-wordmark" style="font-size: 50px;"></i> Apache Kafka
-    <i class="devicon-apache-airflow-plain-wordmark" style="font-size: 50px;"></i> Apache Airflow
+    <b>Technologies I Work With:</b><br>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+    <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sql&logoColor=white">
+    <img src="https://img.shields.io/badge/Power%20BI-2769B5?style=for-the-badge&logo=powerbi&logoColor=white">
+    <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white">
+    <img src="https://img.shields.io/badge/Databricks-FF6347?style=for-the-badge&logo=databricks&logoColor=white">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+    <img src="https://img.shields.io/badge/Terraform-7B42A0?style=for-the-badge&logo=terraform&logoColor=white">
+    <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white">
+    <img src="https://img.shields.io/badge/Apache%20Airflow-017C6D?style=for-the-badge&logo=apache-airflow&logoColor=white">
 </p>
 
 <br>
