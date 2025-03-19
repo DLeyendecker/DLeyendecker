@@ -23,19 +23,21 @@
 </p>
 
 <!-- Technologies Section -->
+## Tecnologias com as Quais Trabalho
+
 <p align="center">
-    <b>Technologies I Work With:</b><br>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white">
-    <img src="https://img.shields.io/badge/Power%20BI-2769B5?style=for-the-badge&logo=powerbi&logoColor=white">
-    <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white">
-    <img src="https://img.shields.io/badge/Databricks-FF6347?style=for-the-badge&logo=databricks&logoColor=white">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-    <img src="https://img.shields.io/badge/Terraform-7B42A0?style=for-the-badge&logo=terraform&logoColor=white">
-    <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white">
-    <img src="https://img.shields.io/badge/Apache%20Airflow-017C6D?style=for-the-badge&logo=apache-airflow&logoColor=white">
+    <img alt="Python" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Python.svg">
+    <img alt="AWS" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/AWS.svg">
+    <img alt="SQL" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/SQL.svg">
+    <img alt="Power BI" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/PowerBI.svg">
+    <img alt="Apache Spark" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/ApacheSpark.svg">
+    <img alt="Databricks" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Databricks.svg">
+    <img alt="Docker" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Docker.svg">
+    <img alt="Terraform" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Terraform.svg">
+    <img alt="Apache Kafka" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/ApacheKafka.svg">
+    <img alt="Apache Airflow" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/ApacheAirflow.svg">
 </p>
+
 
 <br>
 
