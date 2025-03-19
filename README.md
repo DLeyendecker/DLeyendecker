@@ -23,7 +23,6 @@
     </a>
 </p>
 
-<p align="right"><strong><samp>」</samp></strong></p>
 
 <!-- Technologies Section -->
 <p align="center">
