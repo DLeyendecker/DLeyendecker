@@ -36,7 +36,8 @@
     <img src="https://img.shields.io/badge/Apache%20Airflow-017C6D?style=for-the-badge&logo=apache-airflow&logoColor=white">
 </p>
 
-<!-- Contact Me -->
+<details align="center">
+<summary><samp>Contato</samp></summary>
 <p align="center">
     <samp>
         <a href="https://www.linkedin.com/in/davileyendecker/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
