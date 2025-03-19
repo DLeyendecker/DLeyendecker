@@ -21,6 +21,12 @@
         <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Badge" width="100" height="100">
     </a>
 </p>
+
+<br>
+
+<details align="center">
+<summary><samp>Extend</samp></summary>
+
 <p align="center">
     <b>Technologies I Work With:</b><br>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -34,11 +40,6 @@
     <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white">
     <img src="https://img.shields.io/badge/Apache%20Airflow-017C6D?style=for-the-badge&logo=apache-airflow&logoColor=white">
 </p>
-
-<br>
-
-<details align="center">
-<summary><samp>Extend</samp></summary>
 
 <!-- Contact Me -->
 <p align="center">
