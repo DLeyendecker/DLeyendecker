@@ -27,18 +27,17 @@
 ## Tecnologias com as Quais Trabalho
 
 <p align="center">
-    <img alt="Python" height="50" width="50" src="https://www.pngitem.com/pimgs/m/78-786768_python-python-icon-png-transparent-png.png">
-    <img alt="AWS" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/2504/2504946.png">
-    <img alt="SQL" height="50" width="50" src="https://www.vecteezy.com/vector-art/378040-sql-vector-icon">
-    <img alt="Power BI" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968858.png">
-    <img alt="Apache Spark" height="50" width="50" src="https://iconape.com/wp-content/uploads/2018/11/Apache-Spark-Logo-Icon.png">
-    <img alt="Databricks" height="50" width="50" src="https://www.stickpng.com/img/icons-logos-emojis/tech-companies/databricks-full-logo">
-    <img alt="Docker" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/919/919853.png">
+    <img alt="Python" height="50" width="50" src="https://pluspng.com/python-logo-png-10014.html">
+    <img alt="AWS" height="50" width="50" src="https://logos-world.net/amazon-web-services-logo/">
+    <img alt="SQL" height="50" width="50" src="https://logodix.com/sql">
+    <img alt="Power BI" height="50" width="50" src="https://logohistory.net/power-bi-logo/">
+    <img alt="Apache Spark" height="50" width="50" src="https://vectorseek.com/vector_logo/apache-spark-logo-vector/">
+    <img alt="Databricks" height="50" width="50" src="https://logos-world.net/databricks-logo/">
+    <img alt="Docker" height="50" width="50" src="https://logos-world.net/docker-logo/">
     <img alt="Terraform" height="50" width="50" src="https://creazilla.com/nodes/3254445-terraform-icon-icon">
     <img alt="Apache Kafka" height="50" width="50" src="https://creazilla.com/nodes/3207476-apache-kafka-icon">
-    <img alt="Apache Airflow" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968858.png">
+    <img alt="Apache Airflow" height="50" width="50" src="https://logohistory.net/apache-airflow-logo/">
 </p>
-
 
 
 <br>
