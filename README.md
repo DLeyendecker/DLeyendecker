@@ -27,17 +27,18 @@
 ## Tecnologias com as Quais Trabalho
 
 <p align="center">
-    <img alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-    <img alt="AWS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg">
-    <img alt="SQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-    <img alt="Power BI" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg">
-    <img alt="Apache Spark" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg">
-    <img alt="Databricks" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg">
-    <img alt="Docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-    <img alt="Terraform" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg">
-    <img alt="Apache Kafka" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg">
-    <img alt="Apache Airflow" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg">
+    <img alt="Python" height="50" width="50" src="https://www.pngitem.com/pimgs/m/78-786768_python-python-icon-png-transparent-png.png">
+    <img alt="AWS" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/2504/2504946.png">
+    <img alt="SQL" height="50" width="50" src="https://www.vecteezy.com/vector-art/378040-sql-vector-icon">
+    <img alt="Power BI" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968858.png">
+    <img alt="Apache Spark" height="50" width="50" src="https://iconape.com/wp-content/uploads/2018/11/Apache-Spark-Logo-Icon.png">
+    <img alt="Databricks" height="50" width="50" src="https://www.stickpng.com/img/icons-logos-emojis/tech-companies/databricks-full-logo">
+    <img alt="Docker" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/919/919853.png">
+    <img alt="Terraform" height="50" width="50" src="https://creazilla.com/nodes/3254445-terraform-icon-icon">
+    <img alt="Apache Kafka" height="50" width="50" src="https://creazilla.com/nodes/3207476-apache-kafka-icon">
+    <img alt="Apache Airflow" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968858.png">
 </p>
+
 
 
 <br>
