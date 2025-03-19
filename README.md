@@ -9,16 +9,14 @@
     <br>
     <img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6A0DAD&center=true&width=410&height=45&lines=Entusiasta+de+Big+Data">
     <br>
-        <b>
-        ~Davi Leyendecker~
-        </b>
-    <br>
-
 <p align="center">
     <a href="https://www.credly.com/badges/cac3202a-1fc0-44e6-b637-622c75ab4a15" target="_blank">
         <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Badge" width="100" height="100">
     </a>
+    <br>
+    <b>AWS Certified</b>
 </p>
+
 
 <br>
 
