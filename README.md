@@ -17,11 +17,13 @@
     <br>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif" width="80"><br>
   <samp>
-    <b>👾 Pac-Man Tech Trail:</b><br><br>
-    🟡 Pac-Man → 🐍 Python → 🔷 SQL → ☁ AWS → 📊 Power BI
+    <b>Tech Trail:</b><br><br>
+    🐍 Python → 🔷 SQL → ☁ AWS → 📊 Power BI
   </samp>
 </p>
+
 
 
 <!-- AWS Certification Badge -->
