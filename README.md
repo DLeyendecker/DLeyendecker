@@ -40,13 +40,7 @@
     <img src="https://img.shields.io/badge/Terraform-7B42A0?style=for-the-badge&logo=terraform&logoColor=white">
     <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white">
     <img src="https://img.shields.io/badge/Apache%20Airflow-017C6D?style=for-the-badge&logo=apache-airflow&logoColor=white">
-</p>
-
-</details>
-
-<!-- Positioning the symbol at the right -->
-<p style="text-align: right; position: relative; right: 0; padding-right: 10px;"><strong><samp>」</samp></strong></p>
-
+</p> 
 <details align="center">
 <summary><samp>Contato</samp></summary>
 <p align="center">
