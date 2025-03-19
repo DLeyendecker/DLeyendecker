@@ -21,7 +21,7 @@
 <br>
 
 <details align="center">
-<summary><samp>Expandir</samp></summary>
+<summary><samp>Ferramentas e Tecnologias que Utilizo</samp></summary>
 
 <p align="center">
     <b>Tecnologias com as quais trabalho:</b><br>
