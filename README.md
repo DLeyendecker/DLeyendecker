@@ -1,8 +1,9 @@
 <!-- Profile -->
+<!-- Profile -->
 <p align="left"><strong><samp>「</samp></strong></p>
-<p align="center">
-    <samp><br>
-        <b>
+    <p align="center">
+      <samp><br>
+            <b>
             Olá, sou Davi Leyendecker, profissional de dados com experiência em Python, SQL, AWS, Power BI e ferramentas de Big Data.<br>
         </b>
     <br>
@@ -16,6 +17,13 @@
     <br>
     <b>AWS Certified</b>
 </p>
+<br>
+</b>
+        <br>
+      </samp><br>
+    </p>
+<p align="right"><strong><samp>」</samp></strong></p>
+
 <br>
 
 <details align="center">
