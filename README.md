@@ -18,9 +18,6 @@
 </p>
 <br>
 
-<!-- Positioning the symbol at the right -->
-<p style="text-align: right; position: relative; right: 0;"><strong><samp>」</samp></strong></p>
-
 <details align="center">
 <summary><samp>Ferramentas e Tecnologias que Utilizo</samp></summary>
 
@@ -38,6 +35,9 @@
 </p>
 
 </details>
+
+<!-- Positioning the symbol at the right -->
+<p style="text-align: right; position: relative; right: 0; padding-right: 10px;"><strong><samp>」</samp></strong></p>
 
 <details align="center">
 <summary><samp>Contato</samp></summary>
