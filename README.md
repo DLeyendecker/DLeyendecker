@@ -29,7 +29,7 @@
 <p align="center">
     <img alt="Python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
     <img alt="AWS" height="60" width="60" src="https://cdn.jsdelivr.net/npm/@aws-sdk/types@3.734.0/dist-cjs/index.min.js">
-    <img alt="SQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+    <img alt="SQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
     <img alt="Power BI" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg">
     <img alt="Apache Spark" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg">
     <img alt="Databricks" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/databricks/databricks-original.svg">
