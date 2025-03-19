@@ -24,7 +24,6 @@
 <summary><samp>Ferramentas e Tecnologias que Utilizo</samp></summary>
 
 <p align="center">
-    <b>Tecnologias com as quais trabalho:</b><br>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
     <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sql&logoColor=white">
