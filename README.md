@@ -18,8 +18,9 @@
 </p>
 <br>
 
-<details align="center">
 <p align="center"><strong><samp>」</samp></strong></p>
+
+<details align="center">
 <summary><samp>Ferramentas e Tecnologias que Utilizo</samp></summary>
 
 <p align="center">
@@ -34,10 +35,6 @@
     <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white">
     <img src="https://img.shields.io/badge/Apache%20Airflow-017C6D?style=for-the-badge&logo=apache-airflow&logoColor=white">
 </p>
-
-</details>
-
-<p align="center"><strong><samp>」</samp></strong></p>
 
 <details align="center">
 <summary><samp>Contato</samp></summary>
