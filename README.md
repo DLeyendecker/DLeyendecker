@@ -22,8 +22,6 @@
     </a>
 </p>
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact)
-
 <!-- Technologies Section -->
 <p align="center">
     <b>Technologies I Work With:</b><br>
