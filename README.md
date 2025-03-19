@@ -17,14 +17,12 @@
     <br>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif" width="80"><br>
-  <samp>
-    <b>Tech Trail:</b><br><br>
-    🐍 Python → 🔷 SQL → ☁ AWS → 📊 Power BI
-  </samp>
+  <img src="https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif" width="60">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" />
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40" />
 </p>
-
-
 
 <!-- AWS Certification Badge -->
 <br>
