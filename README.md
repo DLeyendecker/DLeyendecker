@@ -19,6 +19,7 @@
 <br>
 
 <details align="center">
+<p align="center"><strong><samp>」</samp></strong></p>
 <summary><samp>Ferramentas e Tecnologias que Utilizo</samp></summary>
 
 <p align="center">
