@@ -3,9 +3,7 @@
 <p align="center">
     <samp><br>
         <b>
-            Olá, tudo bem?
-        <br>
-            Eu sou o Davi, um profissional de dados com habilidades em Python, SQL, AWS, Power BI e tecnologias de Big Data.<br>
+            Olá, sou Davi Leyendecker, profissional de dados com expertise em Python, SQL, AWS, Power BI e Big Data.<br>
         </b>
     <br>
     <br>
