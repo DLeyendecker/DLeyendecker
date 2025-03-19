@@ -22,8 +22,6 @@
     <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Badge" width="100" height="100">
 </a>
 <br>
-<p><b>AWS Certified Cloud Practitioner</b></p>
-<br>
 
 
 </p>
