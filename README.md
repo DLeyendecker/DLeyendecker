@@ -22,26 +22,16 @@
     </a>
 </p>
 <p align="center">
-    <!-- Python -->
-    <img alt="Python" height="50" width="50" src="https://www.python.org/static/community_logos/python-logo.png">
-    <!-- AWS -->
-    <img alt="AWS" height="50" width="50" src="https://d1.awsstatic.com/logos/aws_logo_smile_1200x630.png">
-    <!-- SQL -->
-    <img alt="SQL" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/6/62/SQL.svg">
-    <!-- Power BI -->
-    <img alt="Power BI" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Power_BI_Logo.svg">
-    <!-- Apache Spark -->
-    <img alt="Apache Spark" height="50" width="50" src="https://spark.apache.org/images/spark-logo.png">
-    <!-- Databricks -->
-    <img alt="Databricks" height="50" width="50" src="https://databricks.com/wp-content/uploads/2021/04/databricks-logo.svg">
-    <!-- Docker -->
-    <img alt="Docker" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_logo.png">
-    <!-- Terraform -->
-    <img alt="Terraform" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Terraform_Logo.svg">
-    <!-- Apache Kafka -->
-    <img alt="Apache Kafka" height="50" width="50" src="https://kafka.apache.org/images/kafka_logo.svg">
-    <!-- Apache Airflow -->
-    <img alt="Apache Airflow" height="50" width="50" src="https://airflow.apache.org/_images/pin_large.png">
+    <i class="devicon-python-plain-wordmark" style="font-size: 50px;"></i> Python
+    <i class="devicon-aws-plain-wordmark" style="font-size: 50px;"></i> AWS
+    <i class="devicon-mysql-plain-wordmark" style="font-size: 50px;"></i> SQL
+    <i class="devicon-powerbi-plain-wordmark" style="font-size: 50px;"></i> Power BI
+    <i class="devicon-apache-spark-plain-wordmark" style="font-size: 50px;"></i> Apache Spark
+    <i class="devicon-databricks-plain-wordmark" style="font-size: 50px;"></i> Databricks
+    <i class="devicon-docker-plain-wordmark" style="font-size: 50px;"></i> Docker
+    <i class="devicon-terraform-plain-wordmark" style="font-size: 50px;"></i> Terraform
+    <i class="devicon-apache-kafka-plain-wordmark" style="font-size: 50px;"></i> Apache Kafka
+    <i class="devicon-apache-airflow-plain-wordmark" style="font-size: 50px;"></i> Apache Airflow
 </p>
 
 <br>
