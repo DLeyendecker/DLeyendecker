@@ -18,13 +18,8 @@
     <b>AWS Certified</b>
 </p>
 <br>
-</b>
-        <br>
-      </samp><br>
-    </p>
-<p align="right"><strong><samp>」</samp></strong></p>
 
-<br>
+<p align="right"><strong><samp>」</samp></strong></p>
 
 <details align="center">
 <summary><samp>Ferramentas e Tecnologias que Utilizo</samp></summary>
