@@ -16,22 +16,34 @@
         </b>
     <br>
 
-<!-- AWS Certification Badge -->
-<br>
-<a href="https://www.credly.com/badges/cac3202a-1fc0-44e6-b637-622c75ab4a15" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Badge" width="100" height="100">
-</a>
-<br>
-
+    <!-- AWS Certification Badge -->
+    <br>
+    <a href="https://www.credly.com/badges/cac3202a-1fc0-44e6-b637-622c75ab4a15" target="_blank">
+        <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Badge" width="100" height="100">
+    </a>
+    <br>
 </p>
 <p align="right"><strong><samp>」</samp></strong></p>
+
+<!-- Technologies Section -->
+<p align="center">
+    <b>Technologies I Work With:</b><br>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+    <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sql&logoColor=white">
+    <img src="https://img.shields.io/badge/Power%20BI-2769B5?style=for-the-badge&logo=powerbi&logoColor=white">
+    <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white">
+    <img src="https://img.shields.io/badge/Databricks-FF6347?style=for-the-badge&logo=databricks&logoColor=white">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+    <img src="https://img.shields.io/badge/Terraform-7B42A0?style=for-the-badge&logo=terraform&logoColor=white">
+    <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white">
+    <img src="https://img.shields.io/badge/Apache%20Airflow-017C6D?style=for-the-badge&logo=apache-airflow&logoColor=white">
+</p>
 
 <br>
 
 <details align="center">
 <summary><samp>Extend</samp></summary>
-
-<h2></h2><br>
 
 <!-- Contact Me -->
 <p align="center">
