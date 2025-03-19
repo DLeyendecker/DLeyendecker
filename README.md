@@ -16,8 +16,6 @@
     <br>
     <b>AWS Certified</b>
 </p>
-
-
 <br>
 
 <details align="center">
@@ -46,3 +44,5 @@
     </samp>
 </p>
 </details>
+
+<p align="right"><strong><samp>」</samp></strong></p>
