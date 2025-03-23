@@ -11,15 +11,14 @@ Olá, sou Davi Leyendecker, profissional de dados com experiência em Python, SQ
 <img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6A0DAD&center=true&width=410&height=45&lines=Entusiasta+de+Big+Data">
 </p>
 
-<!-- Badges organizados -->
+<div style="width: 100%; height: 50px; background-color: purple; margin-bottom: 20px;"></div>
+
 <div align="center">
-  <!-- AWS Certified Badge -->
   <a href="https://www.credly.com/badges/cac3202a-1fc0-44e6-b637-622c75ab4a15" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Badge" width="100" height="100" style="vertical-align: middle;">
+    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Badge" width="100" height="100">
   </a>
-  <!-- AWS Databricks Platform Architect Badge -->
   <a href="https://credentials.databricks.com/0404ebcc-9730-44d5-a1ac-9dd320310962#acc.FBiQvEC8" target="_blank">
-    <img src="https://www.databricks.com/sites/default/files/2023-08/fundamentals-badge-platform-architect-aws.svg?v=1692664175" alt="AWS Databricks Platform Architect Badge" width="100" height="100" style="vertical-align: middle; margin-left: 30px;">
+    <img src="https://www.databricks.com/sites/default/files/2023-08/fundamentals-badge-platform-architect-aws.svg?v=1692664175" alt="AWS Databricks Platform Architect Badge" width="100" height="100">
   </a>
 </div>
 
