@@ -13,12 +13,12 @@ Olá, sou Davi Leyendecker, profissional de dados com experiência em Python, SQ
 
 <div style="width: 100%; height: 50px; background-color: purple; margin-bottom: 20px;"></div>
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <a href="https://www.credly.com/badges/cac3202a-1fc0-44e6-b637-622c75ab4a15" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Badge" width="100" height="100">
   </a>
-  <a href="https://credentials.databricks.com/0404ebcc-9730-44d5-a1ac-9dd320310962#acc.FBiQvEC8" target="_blank">
-    <img src="https://www.databricks.com/sites/default/files/2023-08/fundamentals-badge-platform-architect-aws.svg?v=1692664175" alt="AWS Databricks Platform Architect Badge" width="110" height="110">
+  <a href="https://credentials.databricks.com/0404ebcc-9730-44d5-a1ac-9dd320310962#acc.FBiQvEC8" target="_blank" style="display: flex; align-items: center;">
+    <img src="https://www.databricks.com/sites/default/files/2023-08/fundamentals-badge-platform-architect-aws.svg?v=1692664175" alt="AWS Databricks Platform Architect Badge" width="110" height="110" style="vertical-align: middle;">
   </a>
 </div>
 
