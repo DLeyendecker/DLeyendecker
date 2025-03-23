@@ -19,7 +19,7 @@ Olá, sou Davi Leyendecker, profissional de dados com experiência em Python, SQ
   </a>
   <!-- Databricks Fundamentals Badge -->
   <a href="https://credentials.databricks.com/2c43de29-2b35-4a7e-99cb-a8bac16c51a7#acc.csAb7L12" target="_blank">
-    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/137786952" alt="Databricks Fundamentals Badge" width="115" height="115" style="vertical-align: middle; margin-left: 30px;">
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/137786952" alt="Databricks Fundamentals Badge" width="115" height="115" style="vertical-align: middle; margin-left: 30px; margin-top: 10px;">
   </a>
   <!-- AWS Databricks Platform Architect Badge -->
   <a href="https://credentials.databricks.com/0404ebcc-9730-44d5-a1ac-9dd320310962#acc.FBiQvEC8" target="_blank">
