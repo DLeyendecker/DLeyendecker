@@ -22,22 +22,24 @@
 </div>
 
 <!-- Databricks Badges lado a lado -->
-<div style="display: flex; gap: 30px;">
+<div style="display: flex; gap: 30px; align-items: center;">
 
 <!-- Databricks Fundamentals Badge -->
 <div align="center">
-    <a href="https://credentials.databricks.com/2c43de29-2b35-4a7e-99cb-a8bac16c51a7#acc.csAb7L12" target="_blank">
-        <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/137786952" alt="Databricks Fundamentals Badge" width="100" height="100">
-    </a>
+<a href="https://credentials.databricks.com/2c43de29-2b35-4a7e-99cb-a8bac16c51a7#acc.csAb7L12" target="_blank">
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/137786952" alt="Databricks Fundamentals Badge" width="100" height="100">
+</a>
 </div>
 
 <!-- AWS Databricks Platform Architect Badge -->
 <div align="center">
-    <a href="https://credentials.databricks.com/0404ebcc-9730-44d5-a1ac-9dd320310962#acc.FBiQvEC8" target="_blank">
-        <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/137785572" alt="AWS Databricks Platform Architect Badge" width="100" height="100">
-    </a>
+<a href="https://credentials.databricks.com/0404ebcc-9730-44d5-a1ac-9dd320310962#acc.FBiQvEC8" target="_blank">
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/137785572" alt="AWS Databricks Platform Architect Badge" width="100" height="100">
+</a>
 </div>
 
+</div>
+</div>
 
 <p align="right"><strong><samp>」</samp></strong></p>
 
