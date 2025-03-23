@@ -14,7 +14,7 @@
 <!-- AWS Certified Badge -->
 <p align="center">
     <a href="https://www.credly.com/badges/cac3202a-1fc0-44e6-b637-622c75ab4a15" target="_blank">
-        <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/137786952/image.png" alt="AWS Certified Badge" width="100" height="100">
+        <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Badge" width="100" height="100">
     </a>
     <br>
     <b>AWS Certified</b>
@@ -37,6 +37,7 @@
     <br>
     <b>AWS Databricks Platform Architect</b>
 </p>
+
 
 <p align="right"><strong><samp>」</samp></strong></p>
 
