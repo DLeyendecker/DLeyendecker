@@ -12,20 +12,20 @@ Olá, sou Davi Leyendecker, profissional de dados com experiência em Python, SQ
 </p>
 
 <!-- Badges organizados -->
-<p align="center">
+<div align="center">
   <!-- AWS Certified Badge -->
   <a href="https://www.credly.com/badges/cac3202a-1fc0-44e6-b637-622c75ab4a15" target="_blank">
-    <img src="https://img.shields.io/badge/AWS_Certified-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Badge">
+    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Badge" width="100" height="100" style="vertical-align: middle;">
   </a>
   <!-- Databricks Fundamentals Badge -->
   <a href="https://credentials.databricks.com/2c43de29-2b35-4a7e-99cb-a8bac16c51a7#acc.csAb7L12" target="_blank">
-    <img src="https://img.shields.io/badge/Databricks_Fundamentals-FF6347?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks Fundamentals Badge">
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/137786952" alt="Databricks Fundamentals Badge" width="115" height="115" style="vertical-align: middle; margin-left: 30px;">
   </a>
   <!-- AWS Databricks Platform Architect Badge -->
   <a href="https://credentials.databricks.com/0404ebcc-9730-44d5-a1ac-9dd320310962#acc.FBiQvEC8" target="_blank">
-    <img src="https://img.shields.io/badge/AWS_Databricks_Platform_Architect-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Databricks Platform Architect Badge">
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/137785572" alt="AWS Databricks Platform Architect Badge" width="100" height="100" style="vertical-align: middle; margin-left: 30px;">
   </a>
-</p>
+</div>
 
 </div>
 
