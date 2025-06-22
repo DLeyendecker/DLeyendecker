@@ -4,14 +4,13 @@
 <p align="center">
 <samp>
 <b>
-Olá, sou Davi Leyendecker, profissional de dados com experiência em Python, SQL, AWS, Power BI e ferramentas de Big Data.
+Olá, sou Davi Leyendecker, Engenheiro de Dados com experiência prática em automação de pipelines ETL/ELT, arquitetura Lakehouse e soluções em nuvem (AWS, Databricks, Azure).  
+Atuação com Python, SQL, Power BI, CI/CD, Big Data e projetos de dados fim a fim.
 </b>
 </samp>
 <br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6A0DAD&center=true&width=410&height=45&lines=Entusiasta+de+Big+Data">
+<img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6A0DAD&center=true&width=410&height=45&lines=Especialista+em+Data+Engineering+%7C+Cloud+%7C+Lakehouse+%7C+CI%2FCD">
 </p>
-
-<div style="width: 100%; height: 50px; background-color: purple; margin-bottom: 20px;"></div>
 
 <div align="center">
   <table style="border-collapse: collapse;">
@@ -21,26 +20,23 @@ Olá, sou Davi Leyendecker, profissional de dados com experiência em Python, SQ
           <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Badge" width="100" height="100">
         </a>
       </td>
-      <td style="padding: 10px; text-align: center; position: relative;">
+      <td style="padding: 10px; text-align: center;">
         <a href="https://credentials.databricks.com/0404ebcc-9730-44d5-a1ac-9dd320310962#acc.FBiQvEC8" target="_blank">
-          <img src="https://www.databricks.com/sites/default/files/2023-08/fundamentals-badge-platform-architect-aws.svg?v=1692664175" alt="AWS Databricks Platform Architect Badge" width="110" height="110" style="position: relative; top: 15px;">
+          <img src="https://www.databricks.com/sites/default/files/2023-08/fundamentals-badge-platform-architect-aws.svg?v=1692664175" alt="Databricks Platform Architect Badge" width="110" height="110">
         </a>
       </td>
     </tr>
   </table>
 </div>
 
-</div>
-
 <p align="right"><strong><samp>」</samp></strong></p>
 
 <details align="center">
 <summary><samp>Ferramentas e Tecnologias que Utilizo</samp></summary>
-
 <p align="center">
-<!-- Badges para ferramentas -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">
 <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">
 <img src="https://img.shields.io/badge/Power%20BI-2769B5?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI">
 <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Apache Spark">
