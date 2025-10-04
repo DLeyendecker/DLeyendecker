@@ -8,7 +8,7 @@ Engenheiro de Dados focado em automação de pipelines, Lakehouse Architecture e
 Crio soluções escaláveis com Python, PySpark, SQL e CI/CD, unindo engenharia, automação e cloud para entregar dados com eficiência e confiabilidade.
 </b>
 </samp>
-<p align="center">
+<br align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6A0DAD&center=true&width=520&height=45&lines=Transformo+dados+complexos+em+soluções+automatizadas%2C+escaláveis+e+com+propósito.">
 </p>
 
