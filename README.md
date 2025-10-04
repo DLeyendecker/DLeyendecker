@@ -9,7 +9,7 @@ Crio soluções escaláveis com Python, PySpark, SQL e CI/CD, unindo engenharia,
 </b>
 </samp>
 <br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6A0DAD&center=true&width=410&height=45&lines=Especialista+em+Data+Engineering+%7C+Cloud+%7C+Lakehouse+%7C+CI%2FCD">
+<img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6A0DAD&center=true&width=500&height=45&lines=Especialista+em+Data+Engineering+%7C+Cloud+%7C+Lakehouse+%7C+CI%2FCD">
 </p>
 
 <div align="center">
