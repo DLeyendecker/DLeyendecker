@@ -9,7 +9,7 @@ Crio soluções escaláveis com Python, PySpark, SQL e CI/CD, unindo engenharia,
 </b>
 </samp>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6A0DAD&center=true&width=600&height=60&lines=Transformo+dados+complexos+em+soluções+automatizadas;+escaláveis+e+com+propósito.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6A0DAD&center=true&width=520&height=45&lines=Transformo+dados+complexos+em+resultados+inteligentes.">
 </p>
 
 <div align="center">
