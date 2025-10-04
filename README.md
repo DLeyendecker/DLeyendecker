@@ -5,7 +5,7 @@
 <samp>
 <b>
 Olá, sou Davi Leyendecker, Engenheiro de Dados com foco em automação de pipelines, arquitetura Lakehouse e integração de dados em cloud (AWS, Azure, Databricks).
-Tenho experiência prática com Python, PySpark, SQL, CI/CD, Power BI e soluções para ambientes de Big Data.
+Atuo na construção de pipelines ETL/ELT escaláveis, aplicando boas práticas de CI/CD, DataOps e governança de dados. Tenho experiência prática com Python, PySpark, SQL, Power BI e soluções distribuídas de Big Data, unindo engenharia, automação e arquitetura em nuvem para entregar operações eficientes, seguras e escaláveis.
 </b>
 </samp>
 <br>
