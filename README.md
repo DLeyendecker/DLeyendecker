@@ -17,12 +17,12 @@ Crio soluções escaláveis com Python, PySpark, SQL e CI/CD, unindo engenharia,
     <tr>
       <td style="padding: 10px; text-align: center;">
         <a href="https://www.credly.com/badges/cac3202a-1fc0-44e6-b637-622c75ab4a15" target="_blank">
-          <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Badge" width="100" height="100">
+          <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner Badge" height="105">
         </a>
       </td>
       <td style="padding: 10px; text-align: center;">
-        <a <a href="https://credentials.databricks.com/0404ebcc-9730-44d5-a1ac-9dd320310962#acc.FBiQvEC8" target="_blank">
-          <img  <img src="https://www.databricks.com/sites/default/files/2025-10/associate-badge-de.png?v=1780602421" alt="Databricks Certified Data Engineer Associate Badge" height="100">
+        <a href="https://credentials.databricks.com/0404ebcc-9730-44d5-a1ac-9dd320310962#acc.FBiQvEC8" target="_blank">
+          <img src="https://www.databricks.com/sites/default/files/2025-10/associate-badge-de.png?v=1780602421" alt="Databricks Certified Data Engineer Associate Badge" height="105">
         </a>
       </td>
     </tr>
