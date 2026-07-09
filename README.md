@@ -22,7 +22,7 @@ Crio soluções escaláveis com Python, PySpark, SQL e CI/CD, unindo engenharia,
       </td>
       <td style="padding: 10px; text-align: center;">
         <a href="https://credentials.databricks.com/0404ebcc-9730-44d5-a1ac-9dd320310962#acc.FBiQvEC8" target="_blank">
-          <img src="https://www.databricks.com/sites/default/files/2023-08/fundamentals-badge-platform-architect-aws.svg?v=1692664175" alt="Databricks Platform Architect Badge" width="110" height="110">
+          <img src="https://www.databricks.com/sites/default/files/2025-10/associate-badge-de.png?v=1780602421" alt="Databricks Certified Data Engineer Associate Badge" width="110" height="110">
         </a>
       </td>
     </tr>
